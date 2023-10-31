@@ -4,11 +4,15 @@ Na mój projekt zrobiłem bijatykę w stylu 2D.
 W grę może grać jednocześnie 2 graczy
 
 Player 1: 
+
 Ruch : W,A,D
+
 Atak: Spacja
 
 Player 2:
+
 Ruch : ←↑→
+
 Atak: ↓
 
 
