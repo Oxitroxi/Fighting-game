@@ -36,3 +36,6 @@ Kierowałem się tym tutorialem na Youtubie: https://www.youtube.com/watch?v=vyq
 
 
 Myśle, że na tą chwile projekt jest na bardzo wczesnym etapie. Na pewno chce dodać możliwość wyboru postaci, ewentualnie więcej ataków i map.
+
+
+Autor: Oliwier Olearczyk 4TP
