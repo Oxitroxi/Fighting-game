@@ -13,8 +13,11 @@ Atak: ↓
 
 
 Gra jest zrobiona po części w HTML-u i w dużej mierze z użyciem Javascriptu. 
+
 Inspirowałem się dawnymi wersjami gry Mortal Kombat i chciałem trochę więcej podziałać właśnie z Javascryptem.
+
 Myśle że takim największym wyzwaniem była implementacja wszystkich animacji oraz hitboxów (często było tak, że postacie mogły się bić pomimo tego, że były po przeciwnych stronach mapy).
+
 Kierowałem się tym tutorialem na Youtubie: https://www.youtube.com/watch?v=vyqbNFMDRGQ.
 
 
